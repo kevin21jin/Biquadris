@@ -1,0 +1,21 @@
+leveld 7ri dro
+3levelu
+9ri dro
+cl dr
+T 6ri
+dr
+force O
+3ri dro
+3ri dr
+cl 5ri dr
+6ri dr
+4dr
+9ri dr
+6ri dr
+2ri dr
+6ri dr
+7ri dr
+resta 6dr
+6dr
+3ri dr
+dr

@@ -1,0 +1,73 @@
+4levelup 
+norandom sequence4.txt
+dro
+dr
+drop
+3ri 14dow lef drop
+4ri dro
+ri dr
+7rig dro
+dr
+T 2cl 3righ dr
+5ri dr
+O leveld leveldow 9ri dr
+blind
+
+3levelup
+6ri dr
+7ri dr
+restart
+levelu drop
+7ri dr
+2levelup norandom sequence4.txt
+dro
+ri dro
+8ri dr
+clock 6ri dr
+4ri clo dr
+2ri dr
+6ri dr
+5ri 3cl dro
+9ri dr
+cl dr
+5ri dr
+restart
+
+2dr
+cl 3ri dr
+cl ri dr
+2cou dr
+2clo 3ri drop
+T 4ri dro
+5ri dr
+7ri 3dro
+cl dr
+T 4ri 2cou dr
+8ri dro
+O 9rig dr
+
+heavy
+ri 2ri 2cl 6dow dow
+
+leveld 7ri dro
+3levelu
+9ri dro
+cl dr
+T 6ri dr
+
+force O
+3ri dro
+3ri dr
+cl 5ri dr
+6ri dr
+4dr
+9ri dr
+6ri dr
+2ri dr
+6ri dr
+7ri dr
+
+res 6dr
+6dr
+3ri dr
+dr

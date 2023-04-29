@@ -1,0 +1,1 @@
+3levelup norandom sequence5.txt drop drop drop drop 4right drop drop 8right drop drop 6right clockwise 11down
